@@ -1,6 +1,6 @@
 This is the Sandbox WebHome
 
-## Hello, cloned world!
+## Hello, merged world!
 
 * a list
 * is made
