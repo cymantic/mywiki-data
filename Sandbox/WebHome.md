@@ -1,6 +1,6 @@
 This is the Sandbox WebHome
 
-## Hello, my world!
+## Hello, world!
 
 * a list
 * is made
